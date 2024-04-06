@@ -1,0 +1,8 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\bin\Debug\DemoArrayGame.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\bin\Debug\DemoArrayGame.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\bin\Debug\DemoArrayGame.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\obj\Debug\DemoArrayGame.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\obj\Debug\DemoArrayGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\obj\Debug\DemoArrayGame.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\obj\Debug\DemoArrayGame.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoArrayGame\DemoArrayGame\obj\Debug\DemoArrayGame.pdb
