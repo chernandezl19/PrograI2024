@@ -1,0 +1,8 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\bin\Debug\DemoHerencia0.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\bin\Debug\DemoHerencia0.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\bin\Debug\DemoHerencia0.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\obj\Debug\DemoHerencia0.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\obj\Debug\DemoHerencia0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\obj\Debug\DemoHerencia0.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\obj\Debug\DemoHerencia0.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\DemoHerencia0\DemoHerencia0\obj\Debug\DemoHerencia0.pdb
